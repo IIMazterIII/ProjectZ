@@ -17,6 +17,8 @@ public class ProjectZ {
     public static void main(String[] args) {
         // TODO code application logic here
         System.err.println("Hello ProjectZ !!!");
+        
+        System.err.println("Processing... !!!");
     }
     
 }
